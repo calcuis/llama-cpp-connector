@@ -1,1 +1,1 @@
-llama_c - connector
+llama.cpp - connector
